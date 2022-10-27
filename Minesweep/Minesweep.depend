@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1666048759 source:c:\users\felip_0vh5fa6\documents\projects\c\minesweep\bomba.cpp
+	"Bomba.hpp"
+
+1666048754 c:\users\felip_0vh5fa6\documents\projects\c\minesweep\bomba.hpp
+	"Offset.hpp"
+
+1666661382 c:\users\felip_0vh5fa6\documents\projects\c\minesweep\offset.hpp
+	<iostream>
+	<cstring>
+
+1666660932 source:c:\users\felip_0vh5fa6\documents\projects\c\minesweep\main.cpp
+	"Tabuleiro.hpp"
+
+1666661588 c:\users\felip_0vh5fa6\documents\projects\c\minesweep\tabuleiro.hpp
+	<iostream>
+	<cstring>
+	"Tamanho.hpp"
+	"Lista.hpp"
+
+1666656004 c:\users\felip_0vh5fa6\documents\projects\c\minesweep\lista.hpp
+	"Bomba.hpp"
+
+1666660742 c:\users\felip_0vh5fa6\documents\projects\c\minesweep\tamanho.hpp
+	<iostream>
+	<cstring>
+	"Offset.hpp"
+
+1666651018 c:\users\felip_0vh5fa6\documents\projects\c\minesweep\enums.hpp
+
+1666661416 source:c:\users\felip_0vh5fa6\documents\projects\c\minesweep\offset.cpp
+	"Offset.hpp"
+	"Tamanho.hpp"
+	"Lista.cpp"
+	<cstdlib>
+
+1666661601 source:c:\users\felip_0vh5fa6\documents\projects\c\minesweep\tabuleiro.cpp
+	"Tabuleiro.hpp"
+	"Enums.hpp"
+	"Tamanho.hpp"
+	"Lista.cpp"
+	<cstdlib>
+	<time.h>
+
+1666659964 source:c:\users\felip_0vh5fa6\documents\projects\c\minesweep\lista.cpp
+	"Lista.hpp"
+
+1666661025 source:c:\users\felip_0vh5fa6\documents\projects\c\minesweep\tamanho.cpp
+	"Tamanho.hpp"
+	"Offset.hpp"
+	<cstdlib>
+	<time.h>
+
+1666659964 c:\users\felip_0vh5fa6\documents\projects\c\minesweep\lista.cpp
+	"Lista.hpp"
+
+1666824777 source:c:\users\usuario\documents\code blocks\minesweep\minesweep\bomba.cpp
+	"Bomba.hpp"
+
+1666824777 c:\users\usuario\documents\code blocks\minesweep\minesweep\bomba.hpp
+	"Offset.hpp"
+
+1666824777 c:\users\usuario\documents\code blocks\minesweep\minesweep\offset.hpp
+	<iostream>
+	<cstring>
+
+1666824777 source:c:\users\usuario\documents\code blocks\minesweep\minesweep\lista.cpp
+	"Lista.hpp"
+
+1666824777 c:\users\usuario\documents\code blocks\minesweep\minesweep\lista.hpp
+	"Bomba.hpp"
+
+1666824777 source:c:\users\usuario\documents\code blocks\minesweep\minesweep\offset.cpp
+	"Offset.hpp"
+	"Tamanho.hpp"
+	"Lista.cpp"
+	<cstdlib>
+
+1666824777 c:\users\usuario\documents\code blocks\minesweep\minesweep\tamanho.hpp
+	<iostream>
+	<cstring>
+	"Offset.hpp"
+
+1666824777 c:\users\usuario\documents\code blocks\minesweep\minesweep\lista.cpp
+	"Lista.hpp"
+
+1666827303 source:c:\users\usuario\documents\code blocks\minesweep\minesweep\tabuleiro.cpp
+	"Tabuleiro.hpp"
+	"Enums.hpp"
+	"Tamanho.hpp"
+	"Lista.cpp"
+	<cstdlib>
+	<time.h>
+
+1666824777 c:\users\usuario\documents\code blocks\minesweep\minesweep\tabuleiro.hpp
+	<iostream>
+	<cstring>
+	"Tamanho.hpp"
+	"Lista.hpp"
+
+1666824777 c:\users\usuario\documents\code blocks\minesweep\minesweep\enums.hpp
+
+1666824777 source:c:\users\usuario\documents\code blocks\minesweep\minesweep\tamanho.cpp
+	"Tamanho.hpp"
+	"Offset.hpp"
+	<cstdlib>
+	<time.h>
+
+1666827153 source:c:\users\usuario\documents\code blocks\minesweep\minesweep\main.cpp
+	"Tabuleiro.hpp"
+
