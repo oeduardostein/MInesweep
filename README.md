@@ -1,5 +1,5 @@
 # Minesweep
-## BR
+&#x1F1E7;&#x1F1F7;
 Este é um projeto do jogo Minesweeper (Campo Minado), desenvolvido em C++ com o objetivo de praticar e consolidar conhecimentos em programação orientada a objetos (POO). O projeto visa implementar as principais funcionalidades do jogo, utilizando classes e métodos para estruturar o código de forma organizada e modular.
 
 Sobre o Projeto
