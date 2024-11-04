@@ -1,6 +1,7 @@
 # Minesweep
 &#x1F1E7;&#x1F1F7;
-Este é um projeto do jogo Minesweeper (Campo Minado), desenvolvido em C++ com o objetivo de praticar e consolidar conhecimentos em programação orientada a objetos (POO). O projeto visa implementar as principais funcionalidades do jogo, utilizando classes e métodos para estruturar o código de forma organizada e modular.
+
+* Este é um projeto do jogo Minesweeper (Campo Minado), desenvolvido em C++ com o objetivo de praticar e consolidar conhecimentos em programação orientada a objetos (POO). O projeto visa implementar as principais funcionalidades do jogo, utilizando classes e métodos para estruturar o código de forma organizada e modular.
 
 Sobre o Projeto
 O Minesweeper é um jogo clássico em que o jogador deve revelar todas as células de um campo minado, sem ativar nenhuma mina. Ao selecionar uma célula, o jogador revela o número de minas adjacentes (caso existam), ou uma área livre, que facilita a dedução das localizações das minas. O jogo é vencido quando todas as células sem minas são reveladas.
